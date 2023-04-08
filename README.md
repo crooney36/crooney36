@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Charles Rooney, a fullstack software engineer in the DC area.
 
 <!--
 **crooney36/crooney36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
   <td>📋 Languages</td>
   <td>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python&perline=3" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python&perline=6" />
     </a>
   </td>
 <tr/>
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
   <td>📚 Frameworks</td>
   <td>
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vue,astro,nextjs,express,spring&perline=5" />   
+        <img src="https://skillicons.dev/icons?i=react,vue,astro,nextjs,express,spring&perline=6" />   
     </a>
   </td>
   </tr>
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
   <td>🗄️ Databases</td>
    <td>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,graphql,dynamodb&perline=5" />
+      <img src="https://skillicons.dev/icons?i=postgres,graphql,dynamodb&perline=6" />
     </a>
   </td>
   </tr>
@@ -57,7 +58,6 @@ Here are some ideas to get you started:
   </td>
   </tr>
   <tr>
-  
     <td>:art: Design</td>
     <td>
       <a href="https://skillicons.dev">
