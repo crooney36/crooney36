@@ -67,8 +67,6 @@ Here are some ideas to get you started:
 </tr>
 </table>
 </div>
-<div id="Education" align="center">
-<h3>:book: Education</h3>
 
 
 
