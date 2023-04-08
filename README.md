@@ -20,14 +20,25 @@ Here are some ideas to get you started:
 <div id="skills" align="center">
   <h3>:hammer_and_wrench: Skills </h3>
 <table align="center">
+
 <tr>
   <td>📋 Languages</td>
   <td>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python&perline=5" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python&perline=3" />
     </a>
   </td>
 <tr/>
+
+  <tr>
+  <td>📚 Frameworks</td>
+  <td>
+     <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,vue,astro,nextjs,express,spring&perline=5" />   
+    </a>
+  </td>
+  </tr>
+  
 <tr>
   <td>🗄️ Databases</td>
    <td>
@@ -36,22 +47,7 @@ Here are some ideas to get you started:
     </a>
   </td>
   </tr>
-  <tr>
-    <td> Libraries</td>
-    <td>
-     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tailwind,&perline=5" />   
-    </a>
-  </td>
-  </tr>
-  <tr>
-  <td>📚 Frameworks</td>
-  <td>
-     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vue,nextjs,express,spring&perline=5" />   
-    </a>
-  </td>
-  </tr>
+
   <tr>
   <td>:hammer: Tools</td>
   <td>
@@ -61,6 +57,7 @@ Here are some ideas to get you started:
   </td>
   </tr>
   <tr>
+  
     <td>:art: Design</td>
     <td>
       <a href="https://skillicons.dev">
