@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm Charles Rooney, a fullstack software engineer in the DC area.
 
+### Recent graduate from VCU and FullStack Academy, currently a developer at [Teoti.io](https://github.com/teoti-io)
+
 <!--
 **crooney36/crooney36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
